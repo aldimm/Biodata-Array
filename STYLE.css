@@ -1,0 +1,62 @@
+.boxx{
+    width: 725px;
+    height: 1080px;
+    background-color: #896937;
+    border-radius: 10px;
+    border: 3px solid  black;
+    }
+.elips{
+    width: 200px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 260px;
+   
+}
+.lingkaran{
+    width: 170px;
+    height: 180px;
+    border-radius: 50%;
+    background-color: red;
+    margin-left: 280px;
+    border: 1px solid black;
+}
+
+.kotak1{
+    width: 310px;
+    height: 80px;
+    background-color: #6C3A00 ;
+    border-radius: 10px;
+    margin-left: 20px;
+    
+}
+
+.kotak2{
+    width: 300px;
+    height: 80px;
+    background-color: #6C3A00 ;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+
+.kotak3{
+    width: 310px;
+    height: 125px;
+    background-color: #6C3A00 ;
+    border-radius: 10px;
+    margin-left: 400px;
+}
+
+h2{
+   font-family: Tahoma;
+    color: #896937;
+}
+
+.table{
+    margin-left: 80px;
+}
+
+body{
+    font-family:'Lucida Sans Unicode';
+}
